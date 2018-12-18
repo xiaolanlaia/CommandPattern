@@ -1,4 +1,4 @@
-package com.example.commendpattern;
+package com.example.commandpattern;
 
 import org.junit.Test;
 

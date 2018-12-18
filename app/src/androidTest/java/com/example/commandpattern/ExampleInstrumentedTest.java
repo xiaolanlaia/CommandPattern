@@ -1,4 +1,4 @@
-package com.example.commendpattern;
+package com.example.commandpattern;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
